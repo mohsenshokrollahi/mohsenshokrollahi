@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohsen 👋
 
-<!--
-**mohsenshokrollahi/mohsenshokrollahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 SRE/Systems Engineer | Python | Cloud & Infrastructure
 
-Here are some ideas to get you started:
+I build reliable, scalable, and secure systems across cloud and infrastructure environments. My focus is on troubleshooting complex issues, improving system reliability, and automating operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+- Debug and resolve production issues across distributed systems
+- Build automation to reduce manual effort and improve efficiency
+- Analyze root causes and prevent recurring incidents
+- Improve system performance, reliability, and observability
+
+## ⚙️ Technical Areas
+- Cloud & Kubernetes (deployment, upgrades, troubleshooting)
+- Virtualization & Multi-Cloud Infrastructure
+- Automation, Monitoring & System Reliability
+- Networking fundamentals
+
+## 🚀 Projects
+- Experimental projects and tools (automation, scripts, system utilities)
